@@ -1,0 +1,93 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\aronn\\Documents\\Programmering2\\M4\\Inlamning_M4\\b\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{13ADCF43-BF11-4EA5-A26A-56059A642B02}|b\\b.csproj|C:\\Users\\aronn\\Documents\\Programmering2\\M4\\Inlamning_M4\\b\\b\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13ADCF43-BF11-4EA5-A26A-56059A642B02}|b\\b.csproj|solutionrelative:b\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13ADCF43-BF11-4EA5-A26A-56059A642B02}|b\\b.csproj|C:\\Users\\aronn\\Documents\\Programmering2\\M4\\Inlamning_M4\\b\\b\\kort.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13ADCF43-BF11-4EA5-A26A-56059A642B02}|b\\b.csproj|solutionrelative:b\\kort.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:11:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1978039903:0:{83107a3e-496a-485e-b455-16ddb978e55e}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Kort.cs",
+              "DocumentMoniker": "C:\\Users\\aronn\\Documents\\Programmering2\\M4\\Inlamning_M4\\b\\b\\Kort.cs",
+              "RelativeDocumentMoniker": "b\\Kort.cs",
+              "ToolTip": "C:\\Users\\aronn\\Documents\\Programmering2\\M4\\Inlamning_M4\\b\\b\\Kort.cs",
+              "RelativeToolTip": "b\\Kort.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T05:16:01.4Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\aronn\\Documents\\Programmering2\\M4\\Inlamning_M4\\b\\b\\Program.cs",
+              "RelativeDocumentMoniker": "b\\Program.cs",
+              "ToolTip": "C:\\Users\\aronn\\Documents\\Programmering2\\M4\\Inlamning_M4\\b\\b\\Program.cs",
+              "RelativeToolTip": "b\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAuwBAAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T11:56:44.576Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

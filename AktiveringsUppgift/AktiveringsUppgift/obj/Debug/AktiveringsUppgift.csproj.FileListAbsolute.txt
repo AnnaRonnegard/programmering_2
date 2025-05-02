@@ -1,0 +1,7 @@
+C:\Users\aronn\Documents\Programmering2\M1\AktiveringsUppgift\AktiveringsUppgift\bin\Debug\AktiveringsUppgift.exe.config
+C:\Users\aronn\Documents\Programmering2\M1\AktiveringsUppgift\AktiveringsUppgift\bin\Debug\AktiveringsUppgift.exe
+C:\Users\aronn\Documents\Programmering2\M1\AktiveringsUppgift\AktiveringsUppgift\bin\Debug\AktiveringsUppgift.pdb
+C:\Users\aronn\Documents\Programmering2\M1\AktiveringsUppgift\AktiveringsUppgift\obj\Debug\AktiveringsUppgift.csproj.AssemblyReference.cache
+C:\Users\aronn\Documents\Programmering2\M1\AktiveringsUppgift\AktiveringsUppgift\obj\Debug\AktiveringsUppgift.csproj.CoreCompileInputs.cache
+C:\Users\aronn\Documents\Programmering2\M1\AktiveringsUppgift\AktiveringsUppgift\obj\Debug\AktiveringsUppgift.exe
+C:\Users\aronn\Documents\Programmering2\M1\AktiveringsUppgift\AktiveringsUppgift\obj\Debug\AktiveringsUppgift.pdb

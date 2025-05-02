@@ -1,0 +1,7 @@
+C:\Users\aronn\Documents\Programmering2\M4\Inlamning_M4\c\c\bin\Debug\c.exe.config
+C:\Users\aronn\Documents\Programmering2\M4\Inlamning_M4\c\c\bin\Debug\c.exe
+C:\Users\aronn\Documents\Programmering2\M4\Inlamning_M4\c\c\bin\Debug\c.pdb
+C:\Users\aronn\Documents\Programmering2\M4\Inlamning_M4\c\c\obj\Debug\c.csproj.AssemblyReference.cache
+C:\Users\aronn\Documents\Programmering2\M4\Inlamning_M4\c\c\obj\Debug\c.csproj.CoreCompileInputs.cache
+C:\Users\aronn\Documents\Programmering2\M4\Inlamning_M4\c\c\obj\Debug\c.exe
+C:\Users\aronn\Documents\Programmering2\M4\Inlamning_M4\c\c\obj\Debug\c.pdb

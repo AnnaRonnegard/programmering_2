@@ -1,0 +1,7 @@
+C:\Users\aronn\Documents\Programmering2\M3\Inlamning_M3\Inlamning_M3\obj\Debug\Inlamning_M3.csproj.AssemblyReference.cache
+C:\Users\aronn\Documents\Programmering2\M3\Inlamning_M3\Inlamning_M3\obj\Debug\Inlamning_M3.csproj.CoreCompileInputs.cache
+C:\Users\aronn\Documents\Programmering2\M3\Inlamning_M3\Inlamning_M3\bin\Debug\Inlamning_M3.exe.config
+C:\Users\aronn\Documents\Programmering2\M3\Inlamning_M3\Inlamning_M3\bin\Debug\Inlamning_M3.exe
+C:\Users\aronn\Documents\Programmering2\M3\Inlamning_M3\Inlamning_M3\bin\Debug\Inlamning_M3.pdb
+C:\Users\aronn\Documents\Programmering2\M3\Inlamning_M3\Inlamning_M3\obj\Debug\Inlamning_M3.exe
+C:\Users\aronn\Documents\Programmering2\M3\Inlamning_M3\Inlamning_M3\obj\Debug\Inlamning_M3.pdb
