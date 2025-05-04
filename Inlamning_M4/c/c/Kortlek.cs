@@ -35,7 +35,7 @@ namespace c
 
             kortleken.Remove(dragetKortEtt); // Tar bort det dragna kortet, så att det inte kan dras igen.
 
-            int slumptalTvå = slumpGenerator.Next(0, kortleken.Count());
+            int slumptalTvå = slumpGenerator.Next(0, kortleken.Count()); //Slumpar fram ett slumptal mellan 0 och upp till så många kort som kortleken innehåller, vilket nu är ett mindre.
             Kort dragetKortTvå = kortleken[slumptalTvå];
 
             kortleken.Add(dragetKortEtt); //Lägger tillbaka kort ett, så att kortleken blir som ny igen.

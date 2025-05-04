@@ -28,7 +28,7 @@ namespace d
                 }
             }
 
-            List<KeyValuePair<string, int>> sortedList = new List<KeyValuePair<string, int>>(); //Skapar en lista som döps till sortedList
+            List<KeyValuePair<string, int>> sortedList = new List<KeyValuePair<string, int>>(); //Skapar en lista av typen "KeyValuePair<string, int>" som döps till sortedList. Detta för att man på en lista kan använda sort().
 
             foreach (KeyValuePair<string, int> nyckelPar in räknaOrd)
             {
