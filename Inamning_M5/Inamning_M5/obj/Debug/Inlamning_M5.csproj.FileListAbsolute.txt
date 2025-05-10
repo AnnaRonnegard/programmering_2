@@ -1,0 +1,20 @@
+C:\Users\aronn\Documents\Programmering2\M5\Inamning_M5\Inamning_M5\bin\Debug\Inamning_M5.exe.config
+C:\Users\aronn\Documents\Programmering2\M5\Inamning_M5\Inamning_M5\bin\Debug\Inamning_M5.exe
+C:\Users\aronn\Documents\Programmering2\M5\Inamning_M5\Inamning_M5\bin\Debug\Inamning_M5.pdb
+C:\Users\aronn\Documents\Programmering2\M5\Inamning_M5\Inamning_M5\obj\Debug\Inlamning_M5.csproj.AssemblyReference.cache
+C:\Users\aronn\Documents\Programmering2\M5\Inamning_M5\Inamning_M5\obj\Debug\Inlamning_M5.Form1.resources
+C:\Users\aronn\Documents\Programmering2\M5\Inamning_M5\Inamning_M5\obj\Debug\Inamning_M5.Properties.Resources.resources
+C:\Users\aronn\Documents\Programmering2\M5\Inamning_M5\Inamning_M5\obj\Debug\Inlamning_M5.csproj.GenerateResource.cache
+C:\Users\aronn\Documents\Programmering2\M5\Inamning_M5\Inamning_M5\obj\Debug\Inlamning_M5.csproj.CoreCompileInputs.cache
+C:\Users\aronn\Documents\Programmering2\M5\Inamning_M5\Inamning_M5\obj\Debug\Inamning_M5.exe
+C:\Users\aronn\Documents\Programmering2\M5\Inamning_M5\Inamning_M5\obj\Debug\Inamning_M5.pdb
+C:\Users\aronn\Documents\Programmering2\M5\Inamning_M5 - kopia\Inamning_M5\bin\Debug\Inamning_M5.exe.config
+C:\Users\aronn\Documents\Programmering2\M5\Inamning_M5 - kopia\Inamning_M5\bin\Debug\Inamning_M5.exe
+C:\Users\aronn\Documents\Programmering2\M5\Inamning_M5 - kopia\Inamning_M5\bin\Debug\Inamning_M5.pdb
+C:\Users\aronn\Documents\Programmering2\M5\Inamning_M5 - kopia\Inamning_M5\obj\Debug\Inlamning_M5.csproj.AssemblyReference.cache
+C:\Users\aronn\Documents\Programmering2\M5\Inamning_M5 - kopia\Inamning_M5\obj\Debug\Inlamning_M5.Form1.resources
+C:\Users\aronn\Documents\Programmering2\M5\Inamning_M5 - kopia\Inamning_M5\obj\Debug\Inamning_M5.Properties.Resources.resources
+C:\Users\aronn\Documents\Programmering2\M5\Inamning_M5 - kopia\Inamning_M5\obj\Debug\Inlamning_M5.csproj.GenerateResource.cache
+C:\Users\aronn\Documents\Programmering2\M5\Inamning_M5 - kopia\Inamning_M5\obj\Debug\Inlamning_M5.csproj.CoreCompileInputs.cache
+C:\Users\aronn\Documents\Programmering2\M5\Inamning_M5 - kopia\Inamning_M5\obj\Debug\Inamning_M5.exe
+C:\Users\aronn\Documents\Programmering2\M5\Inamning_M5 - kopia\Inamning_M5\obj\Debug\Inamning_M5.pdb
