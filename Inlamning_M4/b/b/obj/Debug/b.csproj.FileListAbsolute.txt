@@ -5,3 +5,10 @@ C:\Users\aronn\Documents\Programmering2\M4\Inlamning_M4\b\b\obj\Debug\b.csproj.A
 C:\Users\aronn\Documents\Programmering2\M4\Inlamning_M4\b\b\obj\Debug\b.csproj.CoreCompileInputs.cache
 C:\Users\aronn\Documents\Programmering2\M4\Inlamning_M4\b\b\obj\Debug\b.exe
 C:\Users\aronn\Documents\Programmering2\M4\Inlamning_M4\b\b\obj\Debug\b.pdb
+C:\Users\aronn\Documents\GitMap\Programmering2\Inlamning_M4\b\b\bin\Debug\b.exe.config
+C:\Users\aronn\Documents\GitMap\Programmering2\Inlamning_M4\b\b\bin\Debug\b.exe
+C:\Users\aronn\Documents\GitMap\Programmering2\Inlamning_M4\b\b\bin\Debug\b.pdb
+C:\Users\aronn\Documents\GitMap\Programmering2\Inlamning_M4\b\b\obj\Debug\b.csproj.AssemblyReference.cache
+C:\Users\aronn\Documents\GitMap\Programmering2\Inlamning_M4\b\b\obj\Debug\b.csproj.CoreCompileInputs.cache
+C:\Users\aronn\Documents\GitMap\Programmering2\Inlamning_M4\b\b\obj\Debug\b.exe
+C:\Users\aronn\Documents\GitMap\Programmering2\Inlamning_M4\b\b\obj\Debug\b.pdb
