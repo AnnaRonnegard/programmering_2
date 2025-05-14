@@ -1,34 +1,34 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\aronn\\Documents\\Programmering2\\M3\\Inlamning_M3\\",
+  "WorkspaceRootPath": "C:\\Users\\aronn\\Documents\\GitMap\\Programmering2\\Inlamning_M3\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6D26CF25-7BC0-47FB-B150-8BCC669EEFDF}|Inlamning_M3\\Inlamning_M3.csproj|c:\\users\\aronn\\documents\\programmering2\\m3\\inlamning_m3\\inlamning_m3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6D26CF25-7BC0-47FB-B150-8BCC669EEFDF}|Inlamning_M3\\Inlamning_M3.csproj|solutionrelative:inlamning_m3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6D26CF25-7BC0-47FB-B150-8BCC669EEFDF}|Inlamning_M3\\Inlamning_M3.csproj|C:\\Users\\aronn\\Documents\\Programmering2\\M3\\Inlamning_M3\\inlamning_m3\\cirkel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6D26CF25-7BC0-47FB-B150-8BCC669EEFDF}|Inlamning_M3\\Inlamning_M3.csproj|C:\\Users\\aronn\\Documents\\GitMap\\Programmering2\\Inlamning_M3\\inlamning_m3\\cirkel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6D26CF25-7BC0-47FB-B150-8BCC669EEFDF}|Inlamning_M3\\Inlamning_M3.csproj|solutionrelative:inlamning_m3\\cirkel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6D26CF25-7BC0-47FB-B150-8BCC669EEFDF}|Inlamning_M3\\Inlamning_M3.csproj|C:\\Users\\aronn\\Documents\\Programmering2\\M3\\Inlamning_M3\\inlamning_m3\\triangel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6D26CF25-7BC0-47FB-B150-8BCC669EEFDF}|Inlamning_M3\\Inlamning_M3.csproj|solutionrelative:inlamning_m3\\triangel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6D26CF25-7BC0-47FB-B150-8BCC669EEFDF}|Inlamning_M3\\Inlamning_M3.csproj|C:\\Users\\aronn\\Documents\\Programmering2\\M3\\Inlamning_M3\\inlamning_m3\\rektangel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6D26CF25-7BC0-47FB-B150-8BCC669EEFDF}|Inlamning_M3\\Inlamning_M3.csproj|solutionrelative:inlamning_m3\\rektangel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6D26CF25-7BC0-47FB-B150-8BCC669EEFDF}|Inlamning_M3\\Inlamning_M3.csproj|C:\\Users\\aronn\\Documents\\Programmering2\\M3\\Inlamning_M3\\inlamning_m3\\kvadrat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6D26CF25-7BC0-47FB-B150-8BCC669EEFDF}|Inlamning_M3\\Inlamning_M3.csproj|solutionrelative:inlamning_m3\\kvadrat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6D26CF25-7BC0-47FB-B150-8BCC669EEFDF}|Inlamning_M3\\Inlamning_M3.csproj|C:\\Users\\aronn\\Documents\\Programmering2\\M3\\Inlamning_M3\\inlamning_m3\\classdiagram1.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|",
+      "AbsoluteMoniker": "D:0:0:{6D26CF25-7BC0-47FB-B150-8BCC669EEFDF}|Inlamning_M3\\Inlamning_M3.csproj|C:\\Users\\aronn\\Documents\\GitMap\\Programmering2\\Inlamning_M3\\inlamning_m3\\classdiagram1.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|",
       "RelativeMoniker": "D:0:0:{6D26CF25-7BC0-47FB-B150-8BCC669EEFDF}|Inlamning_M3\\Inlamning_M3.csproj|solutionrelative:inlamning_m3\\classdiagram1.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6D26CF25-7BC0-47FB-B150-8BCC669EEFDF}|Inlamning_M3\\Inlamning_M3.csproj|C:\\Users\\aronn\\Documents\\Programmering2\\M3\\Inlamning_M3\\inlamning_m3\\figur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6D26CF25-7BC0-47FB-B150-8BCC669EEFDF}|Inlamning_M3\\Inlamning_M3.csproj|C:\\Users\\aronn\\Documents\\GitMap\\Programmering2\\Inlamning_M3\\inlamning_m3\\triangel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D26CF25-7BC0-47FB-B150-8BCC669EEFDF}|Inlamning_M3\\Inlamning_M3.csproj|solutionrelative:inlamning_m3\\triangel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D26CF25-7BC0-47FB-B150-8BCC669EEFDF}|Inlamning_M3\\Inlamning_M3.csproj|c:\\users\\aronn\\documents\\gitmap\\programmering2\\inlamning_m3\\inlamning_m3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D26CF25-7BC0-47FB-B150-8BCC669EEFDF}|Inlamning_M3\\Inlamning_M3.csproj|solutionrelative:inlamning_m3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D26CF25-7BC0-47FB-B150-8BCC669EEFDF}|Inlamning_M3\\Inlamning_M3.csproj|C:\\Users\\aronn\\Documents\\GitMap\\Programmering2\\Inlamning_M3\\inlamning_m3\\figur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6D26CF25-7BC0-47FB-B150-8BCC669EEFDF}|Inlamning_M3\\Inlamning_M3.csproj|solutionrelative:inlamning_m3\\figur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D26CF25-7BC0-47FB-B150-8BCC669EEFDF}|Inlamning_M3\\Inlamning_M3.csproj|C:\\Users\\aronn\\Documents\\GitMap\\Programmering2\\Inlamning_M3\\inlamning_m3\\kvadrat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D26CF25-7BC0-47FB-B150-8BCC669EEFDF}|Inlamning_M3\\Inlamning_M3.csproj|solutionrelative:inlamning_m3\\kvadrat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D26CF25-7BC0-47FB-B150-8BCC669EEFDF}|Inlamning_M3\\Inlamning_M3.csproj|C:\\Users\\aronn\\Documents\\GitMap\\Programmering2\\Inlamning_M3\\inlamning_m3\\rektangel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D26CF25-7BC0-47FB-B150-8BCC669EEFDF}|Inlamning_M3\\Inlamning_M3.csproj|solutionrelative:inlamning_m3\\rektangel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,7 +38,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 13,
+          "SelectedChildIndex": 10,
           "Children": [
             {
               "$type": "Bookmark",
@@ -82,87 +82,93 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Cirkel.cs",
-              "DocumentMoniker": "C:\\Users\\aronn\\Documents\\Programmering2\\M3\\Inlamning_M3\\Inlamning_M3\\Cirkel.cs",
+              "DocumentMoniker": "C:\\Users\\aronn\\Documents\\GitMap\\Programmering2\\Inlamning_M3\\Inlamning_M3\\Cirkel.cs",
               "RelativeDocumentMoniker": "Inlamning_M3\\Cirkel.cs",
-              "ToolTip": "C:\\Users\\aronn\\Documents\\Programmering2\\M3\\Inlamning_M3\\Inlamning_M3\\Cirkel.cs",
+              "ToolTip": "C:\\Users\\aronn\\Documents\\GitMap\\Programmering2\\Inlamning_M3\\Inlamning_M3\\Cirkel.cs",
               "RelativeToolTip": "Inlamning_M3\\Cirkel.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAkAAABgAAAAAAAAAA==",
+              "ViewState": "AgIAABAAAAAAAAAAAAAAwAkAAABgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-15T03:46:24.789Z"
+              "WhenOpened": "2025-04-15T03:46:24.789Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 1,
               "Title": "ClassDiagram1.cd",
-              "DocumentMoniker": "C:\\Users\\aronn\\Documents\\Programmering2\\M3\\Inlamning_M3\\Inlamning_M3\\ClassDiagram1.cd",
+              "DocumentMoniker": "C:\\Users\\aronn\\Documents\\GitMap\\Programmering2\\Inlamning_M3\\Inlamning_M3\\ClassDiagram1.cd",
               "RelativeDocumentMoniker": "Inlamning_M3\\ClassDiagram1.cd",
-              "ToolTip": "C:\\Users\\aronn\\Documents\\Programmering2\\M3\\Inlamning_M3\\Inlamning_M3\\ClassDiagram1.cd",
+              "ToolTip": "C:\\Users\\aronn\\Documents\\GitMap\\Programmering2\\Inlamning_M3\\Inlamning_M3\\ClassDiagram1.cd",
               "RelativeToolTip": "Inlamning_M3\\ClassDiagram1.cd",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000463|",
-              "WhenOpened": "2025-04-13T10:33:05.782Z"
+              "WhenOpened": "2025-04-13T10:33:05.782Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Triangel.cs",
-              "DocumentMoniker": "C:\\Users\\aronn\\Documents\\Programmering2\\M3\\Inlamning_M3\\Inlamning_M3\\Triangel.cs",
+              "DocumentMoniker": "C:\\Users\\aronn\\Documents\\GitMap\\Programmering2\\Inlamning_M3\\Inlamning_M3\\Triangel.cs",
               "RelativeDocumentMoniker": "Inlamning_M3\\Triangel.cs",
-              "ToolTip": "C:\\Users\\aronn\\Documents\\Programmering2\\M3\\Inlamning_M3\\Inlamning_M3\\Triangel.cs",
+              "ToolTip": "C:\\Users\\aronn\\Documents\\GitMap\\Programmering2\\Inlamning_M3\\Inlamning_M3\\Triangel.cs",
               "RelativeToolTip": "Inlamning_M3\\Triangel.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-13T10:33:02.671Z"
+              "WhenOpened": "2025-04-13T10:33:02.671Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\aronn\\Documents\\Programmering2\\M3\\Inlamning_M3\\Inlamning_M3\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\aronn\\Documents\\GitMap\\Programmering2\\Inlamning_M3\\Inlamning_M3\\Program.cs",
               "RelativeDocumentMoniker": "Inlamning_M3\\Program.cs",
-              "ToolTip": "C:\\Users\\aronn\\Documents\\Programmering2\\M3\\Inlamning_M3\\Inlamning_M3\\Program.cs",
+              "ToolTip": "C:\\Users\\aronn\\Documents\\GitMap\\Programmering2\\Inlamning_M3\\Inlamning_M3\\Program.cs",
               "RelativeToolTip": "Inlamning_M3\\Program.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAQwBsAAAAzAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-13T10:33:01.479Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "Rektangel.cs",
-              "DocumentMoniker": "C:\\Users\\aronn\\Documents\\Programmering2\\M3\\Inlamning_M3\\Inlamning_M3\\Rektangel.cs",
+              "DocumentMoniker": "C:\\Users\\aronn\\Documents\\GitMap\\Programmering2\\Inlamning_M3\\Inlamning_M3\\Rektangel.cs",
               "RelativeDocumentMoniker": "Inlamning_M3\\Rektangel.cs",
-              "ToolTip": "C:\\Users\\aronn\\Documents\\Programmering2\\M3\\Inlamning_M3\\Inlamning_M3\\Rektangel.cs",
+              "ToolTip": "C:\\Users\\aronn\\Documents\\GitMap\\Programmering2\\Inlamning_M3\\Inlamning_M3\\Rektangel.cs",
               "RelativeToolTip": "Inlamning_M3\\Rektangel.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAAAwAAAAAAAAAA==",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAgwAkAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-13T10:33:00.584Z"
+              "WhenOpened": "2025-04-13T10:33:00.584Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Kvadrat.cs",
+              "DocumentMoniker": "C:\\Users\\aronn\\Documents\\GitMap\\Programmering2\\Inlamning_M3\\Inlamning_M3\\Kvadrat.cs",
+              "RelativeDocumentMoniker": "Inlamning_M3\\Kvadrat.cs",
+              "ToolTip": "C:\\Users\\aronn\\Documents\\GitMap\\Programmering2\\Inlamning_M3\\Inlamning_M3\\Kvadrat.cs",
+              "RelativeToolTip": "Inlamning_M3\\Kvadrat.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T10:32:57.203Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "Kvadrat.cs",
-              "DocumentMoniker": "C:\\Users\\aronn\\Documents\\Programmering2\\M3\\Inlamning_M3\\Inlamning_M3\\Kvadrat.cs",
-              "RelativeDocumentMoniker": "Inlamning_M3\\Kvadrat.cs",
-              "ToolTip": "C:\\Users\\aronn\\Documents\\Programmering2\\M3\\Inlamning_M3\\Inlamning_M3\\Kvadrat.cs",
-              "RelativeToolTip": "Inlamning_M3\\Kvadrat.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-13T10:32:57.203Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
               "Title": "Figur.cs",
-              "DocumentMoniker": "C:\\Users\\aronn\\Documents\\Programmering2\\M3\\Inlamning_M3\\Inlamning_M3\\Figur.cs",
+              "DocumentMoniker": "C:\\Users\\aronn\\Documents\\GitMap\\Programmering2\\Inlamning_M3\\Inlamning_M3\\Figur.cs",
               "RelativeDocumentMoniker": "Inlamning_M3\\Figur.cs",
-              "ToolTip": "C:\\Users\\aronn\\Documents\\Programmering2\\M3\\Inlamning_M3\\Inlamning_M3\\Figur.cs",
+              "ToolTip": "C:\\Users\\aronn\\Documents\\GitMap\\Programmering2\\Inlamning_M3\\Inlamning_M3\\Figur.cs",
               "RelativeToolTip": "Inlamning_M3\\Figur.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-13T10:32:55.473Z"
+              "WhenOpened": "2025-04-13T10:32:55.473Z",
+              "EditorCaption": ""
             }
           ]
         }
