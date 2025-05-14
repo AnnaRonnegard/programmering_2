@@ -1,14 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\aronn\\Documents\\Programmering2\\M2\\Inlamning_M2\\Inlamning_M2\\",
+  "WorkspaceRootPath": "C:\\Users\\aronn\\Documents\\GitMap\\Programmering2\\Inlamning_M2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6FF5CD38-A211-4DD1-87ED-B99EB751D0D1}|Inlamning_M2\\Inlamning_M2.csproj|c:\\users\\aronn\\documents\\programmering2\\m2\\inlamning_m2\\inlamning_m2\\inlamning_m2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6FF5CD38-A211-4DD1-87ED-B99EB751D0D1}|Inlamning_M2\\Inlamning_M2.csproj|c:\\users\\aronn\\documents\\gitmap\\programmering2\\inlamning_m2\\inlamning_m2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6FF5CD38-A211-4DD1-87ED-B99EB751D0D1}|Inlamning_M2\\Inlamning_M2.csproj|solutionrelative:inlamning_m2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6FF5CD38-A211-4DD1-87ED-B99EB751D0D1}|Inlamning_M2\\Inlamning_M2.csproj|C:\\Users\\aronn\\Documents\\Programmering2\\M2\\Inlamning_M2\\Inlamning_M2\\inlamning_m2\\fordon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6FF5CD38-A211-4DD1-87ED-B99EB751D0D1}|Inlamning_M2\\Inlamning_M2.csproj|solutionrelative:inlamning_m2\\fordon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -64,26 +60,14 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\aronn\\Documents\\Programmering2\\M2\\Inlamning_M2\\Inlamning_M2\\Inlamning_M2\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\aronn\\Documents\\GitMap\\Programmering2\\Inlamning_M2\\Inlamning_M2\\Program.cs",
               "RelativeDocumentMoniker": "Inlamning_M2\\Program.cs",
-              "ToolTip": "C:\\Users\\aronn\\Documents\\Programmering2\\M2\\Inlamning_M2\\Inlamning_M2\\Inlamning_M2\\Program.cs",
+              "ToolTip": "C:\\Users\\aronn\\Documents\\GitMap\\Programmering2\\Inlamning_M2\\Inlamning_M2\\Program.cs",
               "RelativeToolTip": "Inlamning_M2\\Program.cs",
-              "ViewState": "AgIAACcAAAAAAAAAAAAYwAUAAAAWAAAAAAAAAA==",
+              "ViewState": "AgIAADkAAAAAAAAAAAAYwAgAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-01T17:19:56.989Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Fordon.cs",
-              "DocumentMoniker": "C:\\Users\\aronn\\Documents\\Programmering2\\M2\\Inlamning_M2\\Inlamning_M2\\Inlamning_M2\\Fordon.cs",
-              "RelativeDocumentMoniker": "Inlamning_M2\\Fordon.cs",
-              "ToolTip": "C:\\Users\\aronn\\Documents\\Programmering2\\M2\\Inlamning_M2\\Inlamning_M2\\Inlamning_M2\\Fordon.cs",
-              "RelativeToolTip": "Inlamning_M2\\Fordon.cs",
-              "ViewState": "AgIAACEAAAAAAAAAAAAwwDkAAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-26T10:11:33.051Z"
             }
           ]
         }

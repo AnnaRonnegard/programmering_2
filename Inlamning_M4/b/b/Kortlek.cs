@@ -8,8 +8,8 @@ namespace b
 {
     public class Kortlek
     {
-        public List<Kort> kortleken = new List<Kort>(); //Skapar en lista med kort kallad kortleken.
-                                                        //(Använder Kortleken.Count i Main, därför är den public)
+        private List<Kort> kortleken = new List<Kort>(); //Skapar en lista med kort kallad kortleken.
+
         private Random slumpGenerator = new Random(); //Initierar en slumpgenerator.
 
         public Kortlek() //En konstruktor utan parametar, skapar en kortlek.
@@ -26,6 +26,11 @@ namespace b
                     kortleken.Add(nyttKort); //Lägger in det nya kortet i kortleken.
                 }
             }
+        }
+
+        public int GetKortlekCount() //Gör kortleken.count läsbart från main.
+        {
+            return kortleken.Count;
         }
 
         public Kort DraKort() //En metod som drar ett kort ur kortleken.
